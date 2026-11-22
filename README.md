@@ -164,7 +164,7 @@ Through this project, I gained practical knowledge of:
 
 **GitHub Submission ID:**(https://github.com/complexiota).
 
-**Student Repository:** Add your own public GitHub repository URL here.
+**Student Repository:**(https://github.com/Madhura-2606/Insurance-Cost-Prediction-RollNo.--AD3352/tree/main)
 
 **Repository Visibility:** Public
 
